@@ -130,5 +130,5 @@ dmypy.json
 
 # --------------------- MANUALLY EDITED ---------------------
 # Excluding our csv files to prevent high data usage
-.csv
+*.csv
 # --------------------- MANUALLY EDITED ---------------------
