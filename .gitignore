@@ -131,4 +131,7 @@ dmypy.json
 # --------------------- MANUALLY EDITED ---------------------
 # Excluding our csv files to prevent high data usage
 *.csv
+
+# Preventing .DS_Store files from getting uploaded
+.DS_Store
 # --------------------- MANUALLY EDITED ---------------------
